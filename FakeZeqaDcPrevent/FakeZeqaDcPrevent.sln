@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeZeqaDcPrevent", "FakeZeqaDcPrevent\FakeZeqaDcPrevent.csproj", "{861C0D18-CEAB-428D-96F9-44CA8A3E0898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861C0D18-CEAB-428D-96F9-44CA8A3E0898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861C0D18-CEAB-428D-96F9-44CA8A3E0898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861C0D18-CEAB-428D-96F9-44CA8A3E0898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861C0D18-CEAB-428D-96F9-44CA8A3E0898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D512E558-EFBF-4DA3-8EB8-9D605ED6A202}
+	EndGlobalSection
+EndGlobal

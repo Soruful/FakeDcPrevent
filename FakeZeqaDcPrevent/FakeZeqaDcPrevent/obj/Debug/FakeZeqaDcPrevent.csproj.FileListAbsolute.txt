@@ -1,0 +1,10 @@
+C:\Users\Razer\OneDrive\Desktop\FakeZeqaDcPrevent\FakeZeqaDcPrevent\bin\Debug\FakeZeqaDcPrevent.exe.config
+C:\Users\Razer\OneDrive\Desktop\FakeZeqaDcPrevent\FakeZeqaDcPrevent\bin\Debug\FakeZeqaDcPrevent.exe
+C:\Users\Razer\OneDrive\Desktop\FakeZeqaDcPrevent\FakeZeqaDcPrevent\bin\Debug\FakeZeqaDcPrevent.pdb
+C:\Users\Razer\OneDrive\Desktop\FakeZeqaDcPrevent\FakeZeqaDcPrevent\obj\Debug\FakeZeqaDcPrevent.csproj.AssemblyReference.cache
+C:\Users\Razer\OneDrive\Desktop\FakeZeqaDcPrevent\FakeZeqaDcPrevent\obj\Debug\FakeZeqaDcPrevent.Form1.resources
+C:\Users\Razer\OneDrive\Desktop\FakeZeqaDcPrevent\FakeZeqaDcPrevent\obj\Debug\FakeZeqaDcPrevent.Properties.Resources.resources
+C:\Users\Razer\OneDrive\Desktop\FakeZeqaDcPrevent\FakeZeqaDcPrevent\obj\Debug\FakeZeqaDcPrevent.csproj.GenerateResource.cache
+C:\Users\Razer\OneDrive\Desktop\FakeZeqaDcPrevent\FakeZeqaDcPrevent\obj\Debug\FakeZeqaDcPrevent.csproj.CoreCompileInputs.cache
+C:\Users\Razer\OneDrive\Desktop\FakeZeqaDcPrevent\FakeZeqaDcPrevent\obj\Debug\FakeZeqaDcPrevent.exe
+C:\Users\Razer\OneDrive\Desktop\FakeZeqaDcPrevent\FakeZeqaDcPrevent\obj\Debug\FakeZeqaDcPrevent.pdb
