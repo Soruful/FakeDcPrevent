@@ -2,6 +2,8 @@ This is a fake zeqa dc prevent
 
 Has every feautre that Zeqa Dc Prevent currently has
 
+------------------------------------------------------
+
 Q & A
 
 Q: whats the point of a fake dcprevent?
